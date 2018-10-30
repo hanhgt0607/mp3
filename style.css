@@ -1,0 +1,11 @@
+#content{
+	width: 80%;
+	display: block;
+
+}
+li{
+	list-style: none;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
