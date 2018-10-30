@@ -6,6 +6,20 @@
 li{
 	list-style: none;
 	padding-left: 20px;
-	padding-top: 20px;
+	padding-top: 50px;
+	padding-right: 20px;
 }
+.id{
+	padding-right: 20px;
 
+}
+.name_songs{
+	padding-left: 50px;
+	width: 100px;
+	font-size: 20px;
+}
+#audio{
+width: 900px;
+padding-top: 20px;
+padding-left: 40px;
+}
